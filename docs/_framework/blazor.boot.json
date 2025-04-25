@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CameraDemo",
   "resources": {
-    "hash": "sha256-qEG7riLfT2qWjRImjTxh8PhuyPdNHdnJYozGlKKnn8o=",
+    "hash": "sha256-vx0hLI8KCf30Xu0NHsl5qZCZu12fFoDX2ima1SQFWf8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "CameraDemo.wasm": "sha256-LYSYzzN9aReLsw1VgrqeD3B9Zs/rRbhrHqrfy6VlyiE=",
+      "CameraDemo.wasm": "sha256-qTHGPuXSLqmwRMTPrCYFTbvxPQ6uV0XKoGjniqSjRIs=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-FQDqL24ywdrWdVURWvttsd2g70G98kcfE5JWgSKMjiM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+vgZaLZWDaRvY3Q5Jisyaq8jyt2nY0elaH0BOeQiiGs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YOTmgCi9w/cS25afM5UoVJ07S8qiQ6SREvyxCkFnL5o=",
